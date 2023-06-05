@@ -13,7 +13,7 @@ public class Ejercicio9 {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Digite el total de la compra: ");
+		System.out.println("Escriba el total de la compra: ");
 		var totalCompra = scanner.nextDouble();
 		
 		var totalDescuento = totalCompra * descuento;

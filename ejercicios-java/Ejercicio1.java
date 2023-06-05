@@ -10,7 +10,7 @@ public class Ejercicio1 {
 		Scanner scanner = new Scanner(System.in);
 		var nombreUsuario = scanner.nextLine();
 		
-		System.out.println("Hola querido/a " + nombreUsuario);
+		System.out.println("Bienvenido " + nombreUsuario);
 		
 	}
 

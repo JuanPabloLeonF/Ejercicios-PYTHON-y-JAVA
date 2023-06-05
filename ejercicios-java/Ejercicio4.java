@@ -18,7 +18,7 @@ public class Ejercicio4 {
 		var multiplicacion = numero1 * numero2;
 		var division = numero1 / numero2;
 		
-		System.out.println("suma = " + suma);
+		System.out.println("Resultado suma = " + suma);
 		System.out.println("resta = " + resta);
 		System.out.println("multiplicacion = " + multiplicacion);
 		System.out.println("division = " + division);
